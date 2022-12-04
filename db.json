@@ -84,6 +84,35 @@
     "UNITY",
     "STARTAPP"
   ]
-  }
+  },
+  
+  "jhope" : {
+  "username": "azrianasari",
+  "album": [
+    "j-hope"
+  ],
+  "init_jumlah_photo": 1400,
+  "admob_banner_id": "ca-app-pub-4680921445869325/2931144159",
+  "admob_interstitial_id": "ca-app-pub-4680921445869325/9304980810",
+  "admob_native_id": "ca-app-pub-4680921445869325/6678817474",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-4680921445869325/5000174142",
+  "admob_hpk_1": "bank jago",
+  "admob_hpk_2": "telkomsel",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "insurance",
+  "admob_hpk_5": "jenius",
+  "startapp_app_id": "",
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  "interstitial_inverval": 10,
+  "list_ads": [
+    "ADMOB",
+    "UNITY",
+    "STARTAPP"
+  ]
+}
   
 }
