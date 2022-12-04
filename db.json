@@ -1,0 +1,31 @@
+{
+  "jungkook" : {
+  "username": "azrianasari",
+  "album": [
+    "jungkook"
+  ],
+  "init_jumlah_photo": 1400,
+  "admob_banner_id": "ca-app-pub-4680921445869325/1639896177",
+  "admob_interstitial_id": "ca-app-pub-4680921445869325/2430233666",
+  "admob_native_id": "ca-app-pub-4680921445869325/2265747986",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-4680921445869325/1018650810",
+  "admob_hpk_1": "bank jago",
+  "admob_hpk_2": "telkomsel",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "insurance",
+  "admob_hpk_5": "jenius",
+  "startapp_app_id": "",
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  "interstitial_inverval": 10,
+  "list_ads": [
+    "ADMOB",
+    "UNITY",
+    "STARTAPP"
+  ]
+  }
+  
+}
